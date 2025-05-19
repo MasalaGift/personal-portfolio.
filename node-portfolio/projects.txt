@@ -1,0 +1,11 @@
+📁 Project: Personal Portfolio Website
+Course: Web Development – Task 1
+Date: 02 April 2025
+Description:
+Created a fully functional personal portfolio website using HTML, showcasing my bio, contact details, and project work. The website includes three main pages:
+
+Home – Introduction with a personal image, heading, video, and bio.
+
+About Me – Details about my background and interests.
+
+Contact Us – Ways for users to reach out, including social links and phone number.
